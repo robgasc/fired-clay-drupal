@@ -1,0 +1,81 @@
+{
+    "uid": [
+        {
+            "value": 1
+        }
+    ],
+    "uuid": [
+        {
+            "value": "1d20498f-faad-4ecb-ad1f-39f8b3472613"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [],
+    "name": [
+        {
+            "value": "admin"
+        }
+    ],
+    "mail": [
+        {
+            "value": "admin@example.com"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/Chicago"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-11-21T03:20:15+00:00"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-11-21T03:20:15+00:00"
+        }
+    ],
+    "access": [
+        {
+            "value": "2025-11-22T03:22:18+00:00"
+        }
+    ],
+    "login": [
+        {
+            "value": "2025-11-21T03:20:37+00:00"
+        }
+    ],
+    "init": [
+        {
+            "value": "admin@example.com"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "administrator",
+            "target_type": "user_role",
+            "target_uuid": "78710d85-9ba9-4447-ac5c-aaec71002083"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "user_picture": []
+}

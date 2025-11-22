@@ -1,0 +1,54 @@
+{
+    "uuid": [
+        {
+            "value": "8f1b42e8-95c3-4010-8cd0-77e2cdc3a88e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "1d20498f-faad-4ecb-ad1f-39f8b3472613"
+        }
+    ],
+    "filename": [
+        {
+            "value": "PXL_20241006_050615847.MP_.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2025-11\/PXL_20241006_050615847.MP_.jpg",
+            "url": "\/sites\/default\/files\/2025-11\/PXL_20241006_050615847.MP_.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 4068202
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-11-22T03:19:58+00:00"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-11-22T03:22:18+00:00"
+        }
+    ]
+}

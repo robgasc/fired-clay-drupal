@@ -1,0 +1,75 @@
+{
+    "uuid": [
+        {
+            "value": "3f2e6171-d8fb-4a58-b802-12377079c249"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "coat_colors",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "0c6b6340-38cd-4472-b6bd-2022e4d45200"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2025-11-22T03:07:07+00:00"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "name": [
+        {
+            "value": "Gray"
+        }
+    ],
+    "description": [
+        {
+            "value": null,
+            "format": null,
+            "processed": ""
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "parent": [
+        {
+            "target_id": null
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-11-22T03:07:07+00:00"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ]
+}

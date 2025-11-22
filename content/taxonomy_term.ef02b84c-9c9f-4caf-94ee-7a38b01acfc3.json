@@ -1,0 +1,75 @@
+{
+    "uuid": [
+        {
+            "value": "ef02b84c-9c9f-4caf-94ee-7a38b01acfc3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "hair_lengths",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "d5d2d48e-c52f-47c9-9555-45b3b1f3e727"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2025-11-22T03:04:46+00:00"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "name": [
+        {
+            "value": "Short"
+        }
+    ],
+    "description": [
+        {
+            "value": "<p>Can be shaved, but must have or will grow some hair over 50% of body. Up to 1in in length.<\/p>",
+            "format": "basic_html",
+            "processed": "<p>Can be shaved, but must have or will grow some hair over 50% of body. Up to 1in in length.<\/p>"
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "parent": [
+        {
+            "target_id": null
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-11-22T03:04:46+00:00"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "file.8f1b42e8-95c3-4010-8cd0-77e2cdc3a88e": [
+        "user.1d20498f-faad-4ecb-ad1f-39f8b3472613"
+    ],
+    "node.c0552fc2-70b0-48fc-b3f6-f073ab2c3ed8": [
+        "user.1d20498f-faad-4ecb-ad1f-39f8b3472613",
+        "taxonomy_term.3f2e6171-d8fb-4a58-b802-12377079c249",
+        "taxonomy_term.5475b467-92a2-43a4-a9aa-71cd6dff2b1c",
+        "taxonomy_term.8c526aeb-0eb1-4c42-b64a-648dc54d01fd",
+        "file.8f1b42e8-95c3-4010-8cd0-77e2cdc3a88e"
+    ],
+    "shortcut.ddd370f0-7f17-4bca-a67f-24dd5c27205a": [],
+    "shortcut.b8e093df-a1c4-4d73-af35-8e5d42b649b1": [],
+    "taxonomy_term.8c526aeb-0eb1-4c42-b64a-648dc54d01fd": [],
+    "taxonomy_term.0f157dee-cf2f-4f2f-a470-cac9a4b6899f": [],
+    "taxonomy_term.ef02b84c-9c9f-4caf-94ee-7a38b01acfc3": [],
+    "taxonomy_term.1aa95766-472e-4c22-b568-094e9c85a6f7": [],
+    "taxonomy_term.3f2e6171-d8fb-4a58-b802-12377079c249": [],
+    "taxonomy_term.66e44796-011a-44d9-9fe9-b46290b50352": [],
+    "taxonomy_term.5475b467-92a2-43a4-a9aa-71cd6dff2b1c": [],
+    "taxonomy_term.5ecabf9e-8fcc-475e-ae83-3bcee405034a": [],
+    "taxonomy_term.b8d1ee3f-f347-4cd1-bb6e-afe1d8a45097": [],
+    "taxonomy_term.a1544ede-85c2-4a63-8b7c-8243c99e43ca": [],
+    "taxonomy_term.0d97193c-74d9-4758-b421-4169d5e8140a": [],
+    "user.1d20498f-faad-4ecb-ad1f-39f8b3472613": [],
+    "user.3488f3ca-20c9-4167-9e8b-2e6009345ace": []
+}

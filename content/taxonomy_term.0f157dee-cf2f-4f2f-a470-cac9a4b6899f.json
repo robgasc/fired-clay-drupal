@@ -1,0 +1,75 @@
+{
+    "uuid": [
+        {
+            "value": "0f157dee-cf2f-4f2f-a470-cac9a4b6899f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "hair_lengths",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "d5d2d48e-c52f-47c9-9555-45b3b1f3e727"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2025-11-22T03:04:01+00:00"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "name": [
+        {
+            "value": "Medium"
+        }
+    ],
+    "description": [
+        {
+            "value": "<p>A hair length between 1in and 2in.<\/p>",
+            "format": "basic_html",
+            "processed": "<p>A hair length between 1in and 2in.<\/p>"
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "parent": [
+        {
+            "target_id": null
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-11-22T03:04:01+00:00"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ]
+}
