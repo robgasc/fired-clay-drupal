@@ -17,13 +17,16 @@ To install Tome locally, run:
 
 ```bash
 ddev start
-ddev drush tome:install
+ddev composer install
+ddev drush site-install
+ddev drush en tome
+ddev drush tome:import
 ```
 
 then run:
 
 ```
-ddev drush uli
+ddev launch $(ddev drush uli)
 ```
 
 and click the link to start editing content!
